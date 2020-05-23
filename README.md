@@ -3,7 +3,7 @@ A collection of useful stock market analysis metrics and statistics
 
 TODO 1: Calculate fair price of an equity
 
-TODO 2: Calculate earnings per share
+TODO 2: Calculate price to earnings ratio per share
 
 TODO 3: Calculate price to earnings ratio
 
