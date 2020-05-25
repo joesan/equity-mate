@@ -1,7 +1,7 @@
 # equity-mate
 A collection of useful stock market analysis metrics and statistics
 
-TODO 1: Calculate fair price of an equity
+TODO 1: Calculate fair price value / intrinsic value of an equity
 
 TODO 2: Calculate price to earnings ratio per share
 
